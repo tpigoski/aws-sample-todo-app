@@ -2,8 +2,12 @@
 
 This repository provides a starter template for creating applications using React+Vite and AWS Amplify, emphasizing easy setup for authentication, API, and database capabilities.
 
-## Overview
+This is a completed version of the tutorial here 
+[AWS Amplify Gen 2 Tutorial | Build a React To-Do App | AWS Projects](https://www.youtube.com/watch?v=7-7ugqAxgxI)
 
+and [AWS REACT Quickstart Guide](https://docs.amplify.aws/react/start/quickstart/)
+
+## Overview
 This template equips you with a foundational React application integrated with AWS Amplify, streamlined for scalability and performance. It is ideal for developers looking to jumpstart their project with pre-configured AWS services like Cognito, AppSync, and DynamoDB.
 
 ## Features
