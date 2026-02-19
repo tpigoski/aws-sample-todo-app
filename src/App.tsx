@@ -36,7 +36,7 @@ function App() {
         ))}
       </ul>
       <div>
-        🥳 AWS Sample Todo App on Amplify 🥳
+        🥳 AWS Sample Todo App on Amplify - Feb 2026 Version 🥳
         <br />
         <a href="https://docs.amplify.aws/react/start/quickstart/#make-frontend-updates">
           Review next step of this tutorial.
